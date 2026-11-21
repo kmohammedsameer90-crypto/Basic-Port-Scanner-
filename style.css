@@ -1,0 +1,40 @@
+
+body {
+    background: #101827;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+.container {
+    background: #1e293b;
+    margin: 50px auto;
+    padding: 30px;
+    max-width: 500px;
+    border-radius: 12px;
+}
+
+h1 {
+    color: #38bdf8;
+}
+
+input {
+    padding: 12px;
+    width: 80%;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+button {
+    padding: 12px 25px;
+    background: #0284c7;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#results {
+    margin-top: 25px;
+    text-align: left;
+}
